@@ -1,0 +1,13 @@
+{
+  "name": "Goldance 2026 - Jurados",
+  "short_name": "Goldance Jurados",
+  "description": "Acceso de jurados - Goldance Festival Competitivo PY 2026",
+  "start_url": "./selector.html",
+  "display": "standalone",
+  "background_color": "#f3ecdc",
+  "theme_color": "#b8842f",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
